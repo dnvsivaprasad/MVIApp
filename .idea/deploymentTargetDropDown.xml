@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="PostListTest">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="isErrorDisplaying()">
+        <State />
+      </entry>
+      <entry key="isListDisplaying()">
+        <State />
+      </entry>
+      <entry key="isLoadingDisplaying()">
+        <State />
+      </entry>
+      <entry key="viewModelInitializationTest()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
